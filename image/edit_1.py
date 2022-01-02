@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @kittu_the-criminall
 from PIL import Image, ImageEnhance, ImageFilter
 import shutil
 import cv2
