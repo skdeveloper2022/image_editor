@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @kittu_the_criminall
 
 
 import os
