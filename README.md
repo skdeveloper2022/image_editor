@@ -17,5 +17,5 @@
 
 ## Credits
 
-[![kittu TEAM KARMA](https://img.shields.io/badge/kittu TEAM KARMA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=green)](https://t.me/kittu_the_criminall)
+[![kittu TEAM KARMA](https://img.shields.io/badge/kittuTEAMKARMA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=green)](https://t.me/kittu_the_criminall)
 
