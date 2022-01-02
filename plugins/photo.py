@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @kittu_the_criminall
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters
 
