@@ -4,7 +4,7 @@
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kittuthemeo/image_editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skdeveloper2022/image_editor) 
 
 
 
@@ -17,5 +17,5 @@
 
 ## Credits
 
-[![kittu TEAM KARMA](https://img.shields.io/badge/kittuTEAMKARMA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=green)](https://t.me/kittu_the_criminall)
+[![skdeveloper2022](https://img.shields.io/badge/skdeveloper2022-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=green)](https://t.me/kittu_the_criminall)
 
